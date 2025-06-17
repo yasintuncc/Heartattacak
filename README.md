@@ -11,6 +11,7 @@ Kaynak: Kaggle veya UCI (kullandığın veri setinin kaynağı varsa buraya ekle
 Amaç: Kalp krizi riski (1 = Risk Var, 0 = Risk Yok) tahmin etmek
 
 ⚙️ Kullanılan Teknolojiler ve Kütüphaneler:
+
 Python
 
 pandas
@@ -22,6 +23,7 @@ scikit-learn
 matplotlib & seaborn (veri görselleştirme için)
 
 🛠️ Kullanılan Algoritmalar:
+
 Logistic Regression
 
 Random Forest Classifier
@@ -35,6 +37,7 @@ Support Vector Machine (SVM)
 Model performansı accuracy, confusion matrix, ROC AUC gibi metriklerle değerlendirildi.
 
 📈 SONUÇLAR:
+
 En iyi başarı oranı: Random Forest ve Logistic Regression modellerinde elde edildi.
 
 Feature Importance analiziyle kalp krizi riskinde en etkili değişkenler incelendi.
