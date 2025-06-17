@@ -1,7 +1,8 @@
-❤️ Heart Attack Prediction
+❤️ HEART ATTACK PREDİCTİON
+
 Bu proje, bireylerin kalp krizi (Heart Attack) riski taşıyıp taşımadığını tahmin etmek için geliştirilmiş bir Makine Öğrenmesi projesidir. Sağlık verilerine dayanarak çeşitli algoritmalarla risk tahminleri yapılır.
 
-📊 Kullanılan Veri Seti
+📊 KULLANILAN VERİ SETİ
 Kaynak: Kaggle veya UCI (kullandığın veri setinin kaynağı varsa buraya ekleyebilirsin)
 
 Özellikler: Yaş, cinsiyet, kan basıncı, kolesterol, nabız, egzersiz verileri vb.
